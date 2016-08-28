@@ -1,0 +1,13 @@
+node_modules
+.stack-work
+stack-work
+*~
+*.swp
+.cow*
+.monad*
+.main*
+.code*
+.Fm*
+.Mai*
+.REA*
+space.js
